@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Thiago Rocha 👋
 
-<!--
-**ThiagoRocha1612/ThiagoRocha1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Graduando em Análise e Desenvolvimento de Sistemas no **IFPA**
+ Desenvolvedor Backend com foco no ecossistema **Java** e em **Análise de Dados**
+ Atualmente estagiando em Suporte de TI na **CA Comunicações e Assessoria**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tecnologias e Ferramentas
+- **Linguagens:** Java (17+), Python, C++
+- **Backend & Frameworks:** Spring Boot, Spring Data JPA, Hibernate, REST APIs
+- **Dados e Automação:** Web Scraping (Selenium, BeautifulSoup), SQL
+- **Ferramentas:** Git, GitHub, PowerShell, Linux
+
+---
+
+### 📬 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-rocha-tads)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Thiagomarlon1612@gmail.com)
